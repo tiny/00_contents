@@ -46,4 +46,33 @@ gradually increasing in difficulty to help those wishing to learn c++ developmen
 -  range-based / foreach loops
 
 10 [switch]()
--  
+
+11 [ATM demo]()
+-  sample program
+
+12 [state machine]()
+-  basic state machine
+
+13 [coke machine]()
+-  sample state machine with timers
+
+14 [observables and loose coupling]()
+
+15 [singletons]()
+
+16 [the central core]()
+
+17 [stock symbol and ticks]()
+-  observable object
+
+18 [financial portfolio]()
+-  observes the stock object for each position
+-  dependency driven calculations
+
+
+
+
+
+
+
+
