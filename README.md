@@ -3,7 +3,7 @@ table of contents for c++ development
 
 gradually increasing in difficulty to help those wishing to learn c++ development 
 
-01 [hello cpp](https://githhub.com/tiny/01_hello_cpp/README.md)  
+01 [hello cpp](https://github.com/tiny/01_hello_cpp.git)  
 -  basic structure of every c++ program
 -  shows basic CMakeLists.txt file
 
